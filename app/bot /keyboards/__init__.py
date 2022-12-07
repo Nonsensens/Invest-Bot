@@ -1,0 +1,1 @@
+from keyboards import stock_keyboard, skip_photo_keyboard
